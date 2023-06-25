@@ -2,16 +2,16 @@ Overleaf link with edit access to course instructor gmail and then email "anybod
 https://www.overleaf.com/read/gvvtfcngjymf
 
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/ewYs6dioU4Y
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/10FIehkDyWOvcFp0-ec4_215gI4pGuQWZR_5nLRhNa38/edit?usp=sharing
 
 Project title:
 Attention based low light image enhancement
 
 Group Number:
-2
+3
 
 Group Members:
 19201079 Mohammad Muhibur Rahman
